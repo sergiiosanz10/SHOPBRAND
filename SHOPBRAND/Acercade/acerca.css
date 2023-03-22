@@ -1,0 +1,201 @@
+.header {
+  display: flex;
+  flex-direction: column; /* Cambiar la dirección a columna */
+  align-items: center;
+  background-color: #ECE0C3;
+  padding: 20px;
+  border-bottom: 1px solid #452b1a;
+  
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 1%;
+}
+
+.navigation li {
+  margin-right: 20px;
+}
+
+.navigation li:last-child {
+  margin-right: 0;
+}
+
+.navigation li a {
+  color: #452b1a;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.navigation li a:hover {
+  color: #452b1a;
+}
+
+.header h1 {
+    color: #452b1a;
+    margin: 0;
+    font-size: 48px;
+    
+
+}
+
+/*-----------------------*/
+/* Estilos generales */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.intro img, .disenos img, .movimiento img, .principios img, .viralidad img, .visualesSonidos img {
+  max-width: 80%;
+  height: auto;
+}
+
+
+/* Estilos de las secciones */
+.intro, .disenos, .movimiento, .principios, .viralidad, .visualesSonidos {
+  margin: 50px 0;
+  padding: 20px;
+}
+
+.intro p, .disenos p, .movimiento p, .principios p, .viralidad p, .visualesSonidos p {
+  line-height: 1.5;
+}
+
+/* Estilos específicos de cada sección */
+.intro h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.disenos h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.movimiento h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.principios h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.viralidad h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.visualesSonidos h2 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+/*--------------------------*/
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.intro img {
+  margin-bottom: 10px;
+}
+
+.diseños {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3%;
+}
+
+.diseños img {
+  width: 50%;
+  float: left;
+  margin-left: 5%;
+}
+
+.movimiento {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movimiento img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+.principios {
+    margin-left: 55%
+}
+
+.principios img {
+  float: right;
+  margin-left: 10px;
+}
+
+.viralidad {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+}
+
+.viralidad img{
+  width: 60%;
+  margin-bottom: 10px;
+  margin-left: 10%;
+}
+
+
+.visualesSonidos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.visualesSonidos img {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 40%;
+}
+
+/*Footer*/
+footer {
+  background-color: #ECE0C3;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #452b1a;
+  border-top: 1px solid #452b1a;
+}
+
