@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="contacto.xsd">
+    <nombre>    </nombre>
+    <correo>    </correo>
+    <asunto>    </asunto>
+    <mensaje>   </mensaje>
+    <mensaje>   </mensaje>
+    <mensaje>   </mensaje>
+</contacto>
+

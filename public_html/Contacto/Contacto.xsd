@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <!-- Define el elemento root del documento -->
+  <xs:element name="contacto">
+    
+    <!-- Define los elementos que contendrá el elemento root -->
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string" minOccurs="1"/>
+        <xs:element name="correo" type="xs:string" minOccurs="1"/>
+        <xs:element name="asunto" type="xs:string" minOccurs="1"/>
+        <xs:element name="mensaje" type="xs:string" minOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+    
+    <!-- Define las restricciones para cada elemento -->
+    <xs:unique name="correoUnico">
+      <xs:selector xpath=".//correo"/>
+      <xs:field xpath="."/>
+    </xs:unique>
+    
+    <xs:maxLength value="50" type="xs:string"/>
+    <xs:maxLength value="100" type="xs:string"/>
+    <xs:maxLength value="200" type="xs:string"/>
+    <xs:maxLength value="500" type="xs:string"/>
+    
+    <xs:pattern name="correoValido" value="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"/>
+    
+  </xs:element>
+  
+</xs:schema>

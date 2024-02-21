@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column; /* Cambiar la dirección a columna */
+  align-items: center;
+  background-color: #ECE0C3;
+  padding: 20px;
+  border-bottom: 1px solid #452b1a;
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 1%;
+}
+
+.navigation li {
+  margin-right: 20px;
+}
+
+.navigation li:last-child {
+  margin-right: 0;
+}
+
+.navigation li a {
+  color: #452b1a;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.navigation li a:hover {
+  color: #452b1a;
+}
+
+.header h1 {
+    color: #452b1a;
+    margin: 0;
+    font-size: 48px;
+}
+
+/*-------------------------------------------------*/
+
+.producto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .descripcion {
+    font-style: italic;
+  }
+  
+  .tallas {
+    display: none;
+    font-weight: bold;
+  }
+  
+  .precio {
+   
+    font-weight: bold;
+  }
+ /*Mostrar talla*/
+  .producto:hover .tallas {
+    display: block;
+  }
+/*Mostar descripcion*/
+    .producto .descripcion {
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  
+  .producto:hover .descripcion {
+    opacity: 1;
+  }
+  
+/*Alinear productos*/
+.productos {
+  text-align: center; /* para centrar los productos en la página */
+  justify-content: center;
+ display: flex;
+  flex-wrap: wrap;
+}
+
+.producto {
+   width: calc(33.33% - 20px);
+  margin: 10px;
+  background-color: white;
+  box-shadow: 0 0 10px #452b1a;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.producto img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+   max-width: 100%;
+  max-height: 100%;
+  
+}
+
+.productos{
+    background-color: #F0ECE2;
+}
+
+.producto:hover{
+     transform: scale(1.1);
+}
+
+/*Footer*/
+footer {
+  background-color: #ECE0C3;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #452b1a;
+  border-top: 1px solid #452b1a;
+}
+
+
+

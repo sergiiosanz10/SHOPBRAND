@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<camisetas
+xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNamespaceSchemaLocation="Camisetas.xsd">
+    <camiseta id="1">
+        <nombre>Camiseta de manga corta YUXUS</nombre>
+        <descripcion>Camiseta de algodón suave y cómoda, ideal para el verano.</descripcion>
+        <precio>14.99€</precio>
+        <categoria>Camisetas</categoria>
+        <disponibilidad>true</disponibilidad>
+        <imagen>https://yuxusbrand.b-cdn.net/wp-content/uploads/2022/09/1-8.jpg</imagen>
+        <tallas>
+            <talla>S</talla>
+            <talla>M</talla>
+            <talla>L</talla>
+            <talla>XL</talla>
+        </tallas>
+    </camiseta>
+    
+<camiseta id="2">
+    <nombre>Camiseta Nude</nombre>
+    <descripcion>Camiseta de algodón.</descripcion>
+    <precio>14.99€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/oreganobeigetee1_1e94f3c1-392f-44bd-8900-741e3e2a8529_800x.png?v=1677844099</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+    
+<camiseta id="3">
+    <nombre>Camiseta Nude</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/varsityblack1_e2ab798c-d96c-4e1a-9030-718a74244313_800x.png?v=1677176683</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="4">
+    <nombre>Camiseta Nude</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/varistyoofwhite1_800x.png?v=1677692041</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="5">
+    <nombre>Camiseta Minimal Vibing</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Definition_back.jpg?v=1660035784</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="6">
+    <nombre>Camiseta Minimal Vibing</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Definition_navy_front.png?v=1625295684</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="7">
+    <nombre>Camiseta Blue Banana</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/PassengerTee3_720x.jpg?v=1676537090</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="8">
+    <nombre>Camiseta Blue Banana</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/3STEE2_720x.jpg?v=1676537686</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+
+<camiseta id="9">
+    <nombre>Camiseta Arizona Vintage</nombre>
+    <descripcion>Camiseta perfecta para el verano.</descripcion>
+    <precio>20€</precio>
+    <categoria>Camisetas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/IMG_8931_800x.png?v=1669300021</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</camiseta>
+</camisetas>

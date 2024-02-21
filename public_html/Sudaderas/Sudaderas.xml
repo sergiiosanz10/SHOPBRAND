@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+<productos
+xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNamespaceSchemaLocation="Sudaderas.xsd">
+    
+    <sudadera id="1">
+        <nombre>Sudadera sin capucha YUXUS</nombre>
+        <descripcion>Sudadera de algodón suave y cómoda, perfecto para el día a día.</descripcion>
+        <precio>29.99€</precio>
+        <categoria>Sudaderas</categoria>
+        <disponibilidad>true</disponibilidad>
+        <imagen>https://yuxusbrand.b-cdn.net/wp-content/uploads/2022/09/1-4-1.jpg</imagen>
+        <tallas>
+            <talla>S</talla>
+            <talla>M</talla>
+            <talla>L</talla>
+            <talla>XL</talla>
+        </tallas>
+    </sudadera>
+    
+    <sudadera id="2">
+        <nombre>Sudadera sin capucha YUXUS</nombre>
+        <descripcion>Sudadera de algodón suave y cómoda, perfecto para el día a día.</descripcion>
+        <precio>35€</precio>
+        <categoria>Sudaderas</categoria>
+        <disponibilidad>false</disponibilidad>
+        <imagen>https://yuxusbrand.b-cdn.net/wp-content/uploads/2021/12/IMG-7261.jpg</imagen>
+        <tallas>
+            <talla>S</talla>
+            <talla>M</talla>
+            <talla>L</talla>
+            <talla>XL</talla>
+        </tallas>
+    </sudadera>
+    
+    <sudadera id="3">
+        <nombre>Sudaderea con capucha Wolf</nombre>
+        <descripcion>Sudadera de algodón suave y cómoda, perfecto para el día a día.</descripcion>
+        <precio>35€</precio>
+        <categoria>Sudaderas</categoria>
+        <disponibilidad>true</disponibilidad>
+        <imagen>https://cdn.shopify.com/s/files/1/0263/7450/4502/products/darkgreyfront_1000x.png?v=1669314879</imagen>
+        <tallas>
+            <talla>S</talla>
+            <talla>M</talla>
+            <talla>L</talla>
+            <talla>XL</talla>
+        </tallas>
+    </sudadera>
+    
+    <sudadera id="4">
+        <nombre>Sudadera Wolf</nombre>
+        <descripcion>Sudadera de algodón suave y cómoda, perfecto para el día a día.</descripcion>
+        <precio>29.99€</precio>
+        <categoria>Sudaderas</categoria>
+        <disponibilidad>true</disponibilidad>
+        <imagen>https://cdn.shopify.com/s/files/1/0263/7450/4502/products/beigefront_b5c77b07-83f3-4ad4-ba90-6101079532cb_600x.png?v=1671096805</imagen>
+        <tallas>
+            <talla>S</talla>
+            <talla>M</talla>
+            <talla>L</talla>
+            <talla>XL</talla>
+        </tallas>
+    </sudadera>
+
+    
+<sudadera id="5">
+    <nombre>Sudadera sin capucha Nude</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>40€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/varsitybeige1_9d368d50-17dc-4eee-ab7b-52ecff959c4a_800x.png?v=1677688996</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+    
+<sudadera id="6">
+    <nombre>Sudadera sin capucha Nude</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>40€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/varsityblue1_772c7957-818b-4688-b4ff-400882aa52ac_800x.png?v=1677688974</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+    
+<sudadera id="7">
+    <nombre>Sudadera sin capucha Nude</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>39.99€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/cultknitbeigefront_800x.jpg?v=1677176398</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="8">
+    <nombre>Sudadera con capucha Nude</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>45€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/homiesgrey1_800x.png?v=1677172298</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="9">
+    <nombre>Sudadera sin capucha Nude</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>39.99€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0025/3725/9054/products/varsitypink1_48a9327a-b99b-49f7-ae84-bf710e801527_800x.png?v=1677689047</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="10">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/0029jpg_2048x.jpg?v=1670411326</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="11">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/Scuffers-4_2048x.jpg?v=1667312545</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="12">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/Scuffers-5.1_2048x.jpg?v=1667312520</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="13">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/0006jpg_681a2744-c91a-40ce-ae5f-21561bde5984_2048x.jpg?v=1676290232</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="14">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/MymphHoodieEcru03_0_5x_0ba8dad9-a8be-4377-96d7-ce3ec8427546_1512x.jpg?v=1676321906</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="15">
+    <nombre>Sudadera con capucha Scuffers</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0035/9828/6912/products/Passionhoodiegreen_1_2048x.jpg?v=1647021978</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="16">
+    <nombre>Sudadera con capucha Minimal Vibing</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Apres_green_front.jpg?v=1666813275</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="17">
+    <nombre>Sudadera con capucha Minimal Vibing</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Apres_brown_front.jpg?v=1666812867</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="18">
+    <nombre>Sudadera sin capucha Minimal Vibing</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Icecream_front.jpg?v=1656602500</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="19">
+    <nombre>Sudadera con capucha Minimal Vibing</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0418/3359/5036/products/Creme_beige_front.jpg?v=1666800974</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="20">
+    <nombre>Sudadera con capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/WanderHoodie6_720x.jpg?v=1676623271</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="21">
+    <nombre>Sudadera con capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/Prod.SolarHoodieCream1_720x.jpg?v=1667465741</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="22">
+    <nombre>Sudadera con capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex con capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/Hoddie-Bluebanana-classiscyellow-element_a_arreglada_720x.jpg?v=1635503210</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="23">
+    <nombre>Sudadera sin capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/SurferCrew2_720x.jpg?v=1676894925</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="24">
+    <nombre>Sudadera sin capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/Prod.ReefZipClassicYellow1_720x.jpg?v=1661427953</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="25">
+    <nombre>Sudadera sin capucha Blue banana</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0122/2724/8185/products/Prod.PalmCrewOffWhite1copia_720x.jpg?v=1661423776</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="26">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/DEV_6563_800x.jpg?v=1619462697</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="27">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/PHOTO-2022-01-07-12-35-01_e3882211-b6b6-4f1e-ad8e-224688c65396_800x.jpg?v=1643804334</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="28">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/DEV_4705_800x.jpg?v=1616850510</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="29">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/IMG_7697_800x.jpg?v=1667380062</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="30€">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/IMG_7720_800x.jpg?v=1667820011</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+
+<sudadera id="31">
+    <nombre>Sudadera sin capucha Arizona Vintage</nombre>
+    <descripcion>Sudadera unisex sin capucha.</descripcion>
+    <precio>30€</precio>
+    <categoria>Sudaderas</categoria>
+    <disponibilidad>true</disponibilidad>
+    <imagen>https://cdn.shopify.com/s/files/1/0190/1078/1284/products/IMG_7709_bca7dc13-8796-452f-afe3-5eb981725e80_800x.jpg?v=1667820982</imagen>
+    <tallas>
+        <talla>S</talla>
+        <talla>M</talla>
+        <talla>L</talla>
+        <talla>XL</talla>
+    </tallas>
+</sudadera>
+</productos>

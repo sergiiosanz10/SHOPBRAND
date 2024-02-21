@@ -1,0 +1,16 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="acerca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Intro" type="xs:string"/>
+        <xs:element name="Diseños" type="xs:string"/>
+        <xs:element name="Movimiento" type="xs:string"/>
+        <xs:element name="Principios" type="xs:gYear"/>
+        <xs:element name="Viralidad" type="xs:string"/>
+        <xs:element name="VisualesSonidos" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

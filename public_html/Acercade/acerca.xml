@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acerca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="acerca.xsd">
+  <Intro>Bienvenidos a nuestra tienda de ropa online. Nos especializamos en ropa de alta calidad para hombre y mujer, con un enfoque en diseños modernos y elegantes.</Intro>
+  <Diseños>Nuestro equipo de diseño trabaja arduamente para crear ropa que sea cómoda y estilizada. Cada pieza es creada con atención a los detalles,
+           desde los materiales hasta los acabados finales.</Diseños>
+  <Movimiento>Creemos que la moda debe ser accesible para todos, y estamos comprometidos a ofrecer precios justos y razonables para nuestra ropa.</Movimiento>
+  <Principios>Uno de nuestros objetivos es cambiar la idea que se tiene del éxito. Nos hemos dado cuenta de que centrarse en el dinero o la fama
+        sólo para buscar la aceptación, nunca será satisfactorio.</Principios>
+  <Viralidad>Estamos orgullosos de que nuestras prendas sean populares en todo el mundo, gracias a nuestro enfoque en la calidad y el diseño.</Viralidad>
+  <VisualesSonidos>Más que una marca, nos hemos convertido en un estilo de vida, con una música que narra nuestro viaje. Hip hop, urban latin y un sutil toque de diversos géneros.
+                   Todo buena música.</VisualesSonidos>
+</acerca>
+
+
